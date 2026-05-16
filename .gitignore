@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Flask
+instance/
+.webassets-cache
+flask_session/
+
+# Model weights (large files — store with Git LFS if needed)
+static/canet_model.pt
+static/canet_model.bin
+
+# Dataset (add your own spam.csv)
+static/dataset/
+
+# Generated files
+static/graph/*.png
+static/attachments/
+
+# Environment variables
+.env
+*.env
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
