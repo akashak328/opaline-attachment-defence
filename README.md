@@ -12,6 +12,19 @@ Opaline is an AI-powered email security system that detects and neutralizes mali
 
 ---
 
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3.8-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-2.x-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-JS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-5-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-4-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-DistilBERT-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![WampServer](https://img.shields.io/badge/WampServer-Local_DB-6E3D8E?style=for-the-badge&logo=apache&logoColor=white)
+
+---
+
 ## Key Features
 
 | Feature | Description |
@@ -22,6 +35,22 @@ Opaline is an AI-powered email security system that detects and neutralizes mali
 | **Real-time IMAP Scan** | Monitors Gmail inbox continuously for new threats |
 | **Instant Alerts** | Sends email warning to user when threat is detected |
 | **Admin Dashboard** | Upload datasets, train model, manage users |
+
+---
+
+## Screenshots
+
+### Landing Page
+![Landing Page](screenshots/01_landing_page.png)
+
+### Admin — Model Training Phase
+![Training Phase](screenshots/02_training_phase.png)
+
+### User Dashboard
+![User Dashboard](screenshots/03_user_dashboard.png)
+
+### Mail Alert — Threat Detected
+![Mail Alert](screenshots/04_mail_alert.png)
 
 ---
 
@@ -37,7 +66,7 @@ Opaline is an AI-powered email security system that detects and neutralizes mali
 
 ---
 
-## Tech Stack
+## Tech Stack Details
 
 - **Backend:** Python 3.8, Flask
 - **Frontend:** React JS, Bootstrap 4
@@ -67,7 +96,8 @@ opaline_project/
 │   ├── graph/               # generated charts & word clouds
 │   └── attachments/         # uploaded & converted attachment files
 │
-└── templates/               # Jinja2 HTML templates
+├── templates/               # Jinja2 HTML templates
+└── screenshots/             # Project screenshots
 ```
 
 ---
@@ -136,19 +166,6 @@ Alert User + Delete Original
 
 ---
 
-## Team
-
-| Name | Register No. |
-|---|---|
-| Prabu S | 611822205033 |
-| Ravivarma P | 611822205037 |
-| Akash A | 611822205302 |
-
-**Institution:** P.S.V. College of Engineering and Technology, Krishnagiri  
-**Degree:** B.Tech Information Technology — Anna University (2022–2026)
-
----
-
 ## Publication
 
 - **Journal:** Indian Journal of Computer Science and Technology (INDJCST)  
@@ -160,4 +177,4 @@ Alert User + Delete Original
 ## License
 
 This project is submitted for academic purposes under Anna University.  
-© 2026 Prabu S, Ravivarma P, Akash A — All rights reserved.
+© 2026 — All rights reserved.
