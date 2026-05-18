@@ -41,16 +41,16 @@ Opaline is an AI-powered email security system that detects and neutralizes mali
 ## Screenshots
 
 ### Landing Page
-![Landing Page](screenshots/01_landing_page.png)
+![Landing Page](01_landing_page.png)
 
 ### Admin — Model Training Phase
-![Training Phase](screenshots/02_training_phase.png)
+![Training Phase](02_training_phase.png)
 
 ### User Dashboard
-![User Dashboard](screenshots/03_user_dashboard.png)
+![User Dashboard](03_user_dashboard.png)
 
 ### Mail Alert — Threat Detected
-![Mail Alert](screenshots/04_mail_alert.png)
+![Mail Alert](04_mail_alert.png)
 
 ---
 
